@@ -24,6 +24,6 @@ server.get('/',(req,res)=>{
 
 
 server.listen(9000 , ()=>{
-    console.log("server is frunning on port no 9000.");
+    console.log("server is running on port no 9000.");
     
 })
